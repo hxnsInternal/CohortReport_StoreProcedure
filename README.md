@@ -18,7 +18,7 @@ Steeps:
 
 2 - Open and run "01 - CreationArtefacts.sql" file, to create the database "dbCohort", tables and extensions.
 
-3 - Import data into the tables:  tbl_user and tbl_transaction using files : "users.csv" and "trx.csv"
+3 - Import data into the tables:  tbl_user and tbl_transaction using files : "users.csv" and "trx.csv" respectively
 
 4 - Open and run "02 - StoreProcedureCohortReport.sql" file, to generate the report table cohort analysis -> "SignUp Month Cohort"
 
