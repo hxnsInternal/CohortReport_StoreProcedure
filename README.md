@@ -20,7 +20,9 @@ Steeps:
 
 3 - Import data into the tables:  tbl_user and tbl_transaction using files : "users.csv" and "trx.csv"
 
-3 - Open and run "02 - StoreProcedureCohortReport.sql" file, to generate the report table cohort analysis -> "SignUp Month Cohort"
+4 - Open and run "02 - StoreProcedureCohortReport.sql" file, to generate the report table cohort analysis -> "SignUp Month Cohort"
+
+5 - You can see the data output of the store procedure in the "output.sql" File.
 
 
 /*****************************************/
