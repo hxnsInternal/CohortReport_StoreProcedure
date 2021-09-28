@@ -57,7 +57,7 @@ begin
 			 
 	lsSql := 'select distinct mnth from tmp_baseCohort1 order by 1';
 
-	-- Starting with the dynamic query to complete the all sentence, generating a DDL definition for the report table
+	-- Starting with the dynamic query to complete the all sentences, for generating a DDL definition for the report table
 	
 	for lrRec in execute lsSql loop
 
